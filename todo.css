@@ -16,7 +16,7 @@
     width: 60%;
     border-radius: 3px;
 }
-@media (max-width:700px) {
+@media only screen and (max-width:700px) and(max-width:500px) {
     .app{
         width: 90%;
     }
